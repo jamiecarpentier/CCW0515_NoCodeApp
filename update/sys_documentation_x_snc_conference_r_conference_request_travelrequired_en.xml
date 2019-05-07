@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="travelrequired" label="Travel Required" language="en" table="x_snc_conference_r_conference_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>travelrequired</element>
+            <help/>
+            <hint/>
+            <label>Travel Required</label>
+            <language>en</language>
+            <name>x_snc_conference_r_conference_request</name>
+            <plural>Travel Required</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-07 17:56:40</sys_created_on>
+            <sys_id>1144e855495533007f442553c0310d9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Travel Required</sys_name>
+            <sys_package display_value="Conference Registration" source="x_snc_conference_r">292024d1495533007f442553c0310ddc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Registration">292024d1495533007f442553c0310ddc</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_conference_r_conference_request_travelrequired_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-07 17:56:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

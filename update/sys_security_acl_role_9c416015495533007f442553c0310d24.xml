@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 17:43:29</sys_created_on>
+        <sys_id>9c416015495533007f442553c0310d24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_conference_r_conference_request.x_snc_conference_r.user</sys_name>
+        <sys_package display_value="Conference Registration" source="x_snc_conference_r">292024d1495533007f442553c0310ddc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Registration">292024d1495533007f442553c0310ddc</sys_scope>
+        <sys_security_acl display_value="x_snc_conference_r_conference_request">d0416015495533007f442553c0310d22</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9c416015495533007f442553c0310d24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 17:43:29</sys_updated_on>
+        <sys_user_role display_value="x_snc_conference_r.user" name="x_snc_conference_r.user">b92064d1495533007f442553c0310dc9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
